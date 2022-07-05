@@ -5,9 +5,9 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-ID=139589cb-1366-46e7-929c-fbe1005902e5
+ID=1e40858a-4877-45bb-b4fe-c8463ae99d21
 AID=64
-WSPATH=/sidmbg3
+WSPATH=/odhsdsji
 PORT=80
 
 # Write V2Ray configuration
